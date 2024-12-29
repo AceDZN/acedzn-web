@@ -56,8 +56,8 @@ const SkillConstellation = () => {
 
   const initStars = () => {
     const newStars: Star[] = []
-    const centerX = dimensions.width / 2
-    const centerY = dimensions.height / 2
+    // const centerX = dimensions.width / 2
+    // const centerY = dimensions.height / 2
 
     Object.entries(content.skillConstellation.categories).forEach(([category, data], categoryIndex) => {
       const categoryAngleOffset = (categoryIndex / 4) * Math.PI * 2

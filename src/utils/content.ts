@@ -4,7 +4,7 @@ import { SiteContent } from '@/types/content'
 
 // Using React cache to memoize content loading
 export const getContent = cache((): SiteContent => {
-  return content
+  return content as SiteContent
 })
 
 // Specific content getters for different sections

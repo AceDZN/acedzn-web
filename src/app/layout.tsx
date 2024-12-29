@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import Header from '@/components/layout/Header'
 import content from '@/content/site-content.json'
+import { PostHogProvider } from '@/providers'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -36,7 +37,9 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <body className={`${inter.className} bg-black text-white antialiased`}>
         <Header />
+        <PostHogProvider>
         {children}
+        </PostHogProvider>
       </body>
     </html>
   )

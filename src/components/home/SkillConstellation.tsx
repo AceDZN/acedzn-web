@@ -66,8 +66,8 @@ const SkillConstellation = () => {
         const radius = skill.size === 'large' ? 4 : skill.size === 'medium' ? 3 : 2
         const angle = categoryAngleOffset + (index / data.skills.length) * (Math.PI / 2)
         const orbitRadius = 100 + Math.random() * 150
-        const x = centerX + Math.cos(angle) * orbitRadius
-        const y = centerY + Math.sin(angle) * orbitRadius
+        //const x = centerX + Math.cos(angle) * orbitRadius
+        //const y = centerY + Math.sin(angle) * orbitRadius
 
         newStars.push({
             x: Math.random() * dimensions.width,

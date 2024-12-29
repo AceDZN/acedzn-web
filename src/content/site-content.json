@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Alex Sindalovsky | Professional Dreamer & Education Game-Changer",
+    "description": "Web developer and technology leader with over 15 years of experience in the digital space. Currently leading web development at TinyTap.",
+    "keywords": ["web development", "blockchain", "education technology", "frontend", "react", "nextjs"],
+    "author": "Alex Sindalovsky",
+    "social": {
+      "linkedin": "https://linkedin.com/in/alexsindalovsky",
+      "twitter": "https://x.com/acedzn",
+      "twitter_handle": "@acedzn"
+    }
+  },
+  "hero": {
+    "name": "Alex Sindalovsky",
+    "tagline": "Professional Dreamer & Education Game-Changer",
+    "cta": {
+      "linkedin": "LinkedIn",
+      "twitter": "X/Twitter"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": [
+      "A visionary web developer and technology leader with over 15 years of experience in the digital space. Currently serving as a Web Development Team Lead at TinyTap, spearheading innovative educational technology solutions and blockchain initiatives.",
+      "With expertise in frontend development, blockchain technology, and UI/UX design, I'm passionate about creating dynamic, high-speed websites and platforms that drive competitive advantage and revenue growth."
+    ],
+    "skills": {
+      "frontend": {
+        "title": "Frontend",
+        "technologies": "React, Next.js, TypeScript"
+      },
+      "blockchain": {
+        "title": "Blockchain",
+        "technologies": "Web3.js, Solidity"
+      },
+      "backend": {
+        "title": "Backend",
+        "technologies": "Node.js, Python, PHP"
+      },
+      "design": {
+        "title": "Design",
+        "technologies": "UI/UX, Responsive Design"
+      }
+    },
+    "pixelGame": {
+      "title": "Pixel Art Creator",
+      "subtitle": "Draw something cool!"
+    }
+  },
+  "skillConstellation": {
+    "title": "Skill Constellation",
+    "subtitle": "Navigate through my tech universe",
+    "categories": {
+      "modernFrontend": {
+        "name": "Modern Frontend",
+        "skills": [
+          { "name": "Next.js 14", "level": 95, "startYear": 2022, "size": "large" },
+          { "name": "React 18+", "level": 95, "startYear": 2017, "size": "large" },
+          { "name": "TypeScript", "level": 90, "startYear": 2019, "size": "large" },
+          { "name": "TanStack Query", "level": 85, "startYear": 2021, "size": "medium" },
+          { "name": "Zustand", "level": 90, "startYear": 2022, "size": "medium" },
+          { "name": "Tailwind CSS", "level": 95, "startYear": 2021, "size": "large" },
+          { "name": "Server Components", "level": 90, "startYear": 2023, "size": "large" }
+        ]
+      },
+      "aiIntegration": {
+        "name": "AI & Innovation",
+        "skills": [
+          { "name": "LangChain", "level": 85, "startYear": 2023, "size": "large" },
+          { "name": "OpenAI API", "level": 90, "startYear": 2022, "size": "large" },
+          { "name": "Vector DBs", "level": 85, "startYear": 2023, "size": "medium" },
+          { "name": "RAG Systems", "level": 85, "startYear": 2023, "size": "medium" },
+          { "name": "Claude API", "level": 80, "startYear": 2023, "size": "medium" },
+          { "name": "AI Integration", "level": 90, "startYear": 2022, "size": "large" }
+        ]
+      },
+      "web3Development": {
+        "name": "Web3 & Blockchain",
+        "skills": [
+          { "name": "thirdweb", "level": 90, "startYear": 2022, "size": "large" },
+          { "name": "Solidity", "level": 85, "startYear": 2022, "size": "large" },
+          { "name": "NFT Standards", "level": 90, "startYear": 2022, "size": "medium" },
+          { "name": "Token Gating", "level": 85, "startYear": 2023, "size": "medium" },
+          { "name": "Smart Contracts", "level": 85, "startYear": 2022, "size": "large" }
+        ]
+      },
+      "modernTooling": {
+        "name": "Modern Tooling",
+        "skills": [
+          { "name": "Turbopack", "level": 85, "startYear": 2023, "size": "medium" },
+          { "name": "GitHub Actions", "level": 90, "startYear": 2021, "size": "medium" },
+          { "name": "Edge Functions", "level": 85, "startYear": 2022, "size": "medium" },
+          { "name": "Vitest", "level": 90, "startYear": 2023, "size": "medium" },
+          { "name": "Docker", "level": 85, "startYear": 2020, "size": "medium" }
+        ]
+      }
+    }
+  }
+} 

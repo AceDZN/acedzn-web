@@ -185,10 +185,10 @@ const ContactSection = () => {
       <div className="max-w-4xl mx-auto">
         <div ref={titleRef} className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            <span className="gradient-text">{`Let&apos;s Connect`}</span>
+            <span className="gradient-text">{`Let's Connect`}</span>
           </h2>
           <p className="text-xl text-gray-400">
-            Have a project in mind? Let&apos;s create something amazing together.
+            {`Have a project in mind? Let's create something amazing together.`}
           </p>
         </div>
 
